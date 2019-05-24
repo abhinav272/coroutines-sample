@@ -11,9 +11,9 @@ fun main() {
 
 //    exampleGlobalLaunch()
 
-//    exampleGlobalLaunchWaiting()
+    exampleGlobalLaunchWaiting()
 
-    exampleCoroutineLaunchWaiting()
+//    exampleCoroutineLaunchWaiting()
 }
 
 suspend fun printDelayed(msg: String) {
